@@ -4,7 +4,7 @@
     "dailySales": "Daily Sales",
     "performance": "Cooling Performance",
     "simpleTable": "Simple Table",
-    "totalShipments": "Total Shipments",
+    "totalShipments": "Total Energy",
     "chartCategories": ["Accounts", "Purchases", "Sessions"],
     "tasks": "Tasks({count})",
     "today": "Today",
