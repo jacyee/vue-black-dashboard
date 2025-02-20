@@ -2,7 +2,7 @@
   "dashboard": {
     "completedTasks": "Completed Tasks",
     "dailySales": "Daily Sales",
-    "performance": "Cooling Performance",
+    "performance": "Power Performance",
     "simpleTable": "Simple Table",
     "totalShipments": "Total Energy",
     "chartCategories": ["Accounts", "Purchases", "Sessions"],
